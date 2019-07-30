@@ -1,0 +1,19 @@
+{
+  "name": "xay-dung-api-voi-nodejs",
+  "version": "1.0.0",
+  "description": "> Xây dựng API với NodeJS không sử dụng Framework và thư viện bên ngoài (Libraries)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnson58th2/simple-rest-apis-nodejs-without-frameworks.git"
+  },
+  "author": "Xoăn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnson58th2/simple-rest-apis-nodejs-without-frameworks/issues"
+  },
+  "homepage": "https://github.com/nnson58th2/simple-rest-apis-nodejs-without-frameworks#readme"
+}
